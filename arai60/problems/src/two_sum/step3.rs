@@ -23,7 +23,8 @@ impl Solution {
             let compliment = target - number;
 
             match compliment_map.get(&compliment) {
-                Some(compliment_index) => return vec![index as i32, *compliment_index as i32],
+                // 式じゃなくてパターン側で参照を解いて、変数と値を紐づける
+                Some(&compliment_index) => return vec![index as i32, compliment_index as i32],
                 None => {
                 compliment_map.insert(number, index);
                 },
