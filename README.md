@@ -72,12 +72,12 @@ PR: https://github.com/hukukaich0u/leetcode/pull/example
 - [373. Find K Pairs with Smallest Sums(Med.)](https://github.com/hayashi-ay/leetcode/pull/66)
 
 ## HashMap
-- [1. Two Sum(Easy)](https://github.com/hayashi-ay/leetcode/pull/14)
-- [49. Group Anagrams(Med.)](https://github.com/hayashi-ay/leetcode/pull/19)
-- [349. Intersection of Two Arrays(Easy)](https://github.com/hayashi-ay/leetcode/pull/21)
-- [929. Unique Email Addresses(Easy)](https://github.com/hayashi-ay/leetcode/pull/25)
-- [387. First Unique Character in a String(Easy)](https://github.com/hayashi-ay/leetcode/pull/28)
-- [560. Subarray Sum Equals K(Med.)](https://github.com/hayashi-ay/leetcode/pull/31)
+- [1. Two Sum(Easy)](https://leetcode.com/problems/two-sum/description/)
+- [49. Group Anagrams(Med.)](https://leetcode.com/problems/group-anagrams/description/)
+- [349. Intersection of Two Arrays(Easy)](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- [929. Unique Email Addresses(Easy)](https://leetcode.com/problems/unique-email-addresses/description/)
+- [387. First Unique Character in a String(Easy)](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+- [560. Subarray Sum Equals K(Med.)](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
 ## Graph, BFS, DFS
 - [200. Number of Islands(Med.)](https://github.com/hayashi-ay/leetcode/pull/33)
