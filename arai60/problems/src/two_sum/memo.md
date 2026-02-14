@@ -1,4 +1,5 @@
-```rust(Yoshi Iwasaさん)
+(Yoshiki Iwasaさん)
+```rust
 pub struct Solution;
 use std::collections::HashMap;
 
@@ -23,8 +24,8 @@ impl Solution {
     }
 }
 ```
-
-```rust(t9a-devさん)
+(t9a-devさん)
+```rust
 use std::collections::HashMap;
 
 /*
