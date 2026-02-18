@@ -11,6 +11,6 @@ impl Solution {
             }
         }
 
-        intersection_set.into_iter().collect()::<Vec<_>>()
+        intersection_set.into_iter().collect::<Vec<_>>()
     }
 }
