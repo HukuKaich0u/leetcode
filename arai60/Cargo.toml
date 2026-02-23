@@ -1,4 +1,3 @@
-[dependencies]
-
 [workspace]
-members = ["problems","problems/*"]
+members = ["problems"]
+resolver = "3"
