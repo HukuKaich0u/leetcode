@@ -1,4 +1,0 @@
-error: failed to parse manifest at `/Users/KokiAoyagi/Documents/repo/leetcode/arai60/Cargo.toml`
-
-Caused by:
-  this virtual manifest specifies a `dependencies` section, which is not allowed
