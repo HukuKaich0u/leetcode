@@ -56,20 +56,20 @@ PR: https://github.com/hukukaich0u/leetcode/pull/example
 
 # Arai60
 ## LinkedList
-- [141. Linked List Cycle(Easy)](https://github.com/hayashi-ay/leetcode/pull/15)
-- [142. Linked List Cycle II(Med.)](https://github.com/hayashi-ay/leetcode/pull/18)
-- [83. Remove Duplicates from Sorted List(Easy)](https://github.com/hayashi-ay/leetcode/pull/20)
-- [82. Remove Duplicates from Sorted List II(Med.)](https://github.com/hayashi-ay/leetcode/pull/23)
-- [2. Add Two Numbers(Med.)](https://github.com/hayashi-ay/leetcode/pull/24)
+- [141. Linked List Cycle(Easy)](https://leetcode.com/problems/linked-list-cycle/description/)
+- [142. Linked List Cycle II(Med.)](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+- [83. Remove Duplicates from Sorted List(Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
+- [82. Remove Duplicates from Sorted List II(Med.)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+- [2. Add Two Numbers(Med.)](https://leetcode.com/problems/add-two-numbers/description/)
 
 ## Stack
-- [20. Valid Parentheses(Easy)](https://github.com/hayashi-ay/leetcode/pull/16)
-- [206. Reverse Linked List(Easy)](https://github.com/hayashi-ay/leetcode/pull/13)
+- [20. Valid Parentheses(Easy)](https://leetcode.com/problems/valid-parentheses/description/)
+- [206. Reverse Linked List(Easy)](https://leetcode.com/problems/reverse-linked-list/description/)
 
 ## Heap, PriorityQueue
-- [703. Kth Largest Element in a Stream(Easy)](https://github.com/hayashi-ay/leetcode/pull/54)
-- [347. Top K Frequent Elements(Med.)](https://github.com/hayashi-ay/leetcode/pull/60)
-- [373. Find K Pairs with Smallest Sums(Med.)](https://github.com/hayashi-ay/leetcode/pull/66)
+- [703. Kth Largest Element in a Stream(Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+- [347. Top K Frequent Elements(Med.)](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [373. Find K Pairs with Smallest Sums(Med.)](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
 
 ## HashMap
 - [1. Two Sum(Easy)](https://leetcode.com/problems/two-sum/description/)
@@ -80,61 +80,61 @@ PR: https://github.com/hukukaich0u/leetcode/pull/example
 - [560. Subarray Sum Equals K(Med.)](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
 ## Graph, BFS, DFS
-- [200. Number of Islands(Med.)](https://github.com/hayashi-ay/leetcode/pull/33)
-- [695. Max Area of Island(Med.)](https://github.com/hayashi-ay/leetcode/pull/34)
-- [323. Number of Connected Components in an Undirected Graph(Med.)](https://github.com/hayashi-ay/leetcode/pull/37)
-- [127. Word Ladder(Hard)](https://github.com/hayashi-ay/leetcode/pull/42)
+- [200. Number of Islands(Med.)](https://leetcode.com/problems/number-of-islands/description/)
+- [695. Max Area of Island(Med.)](https://leetcode.com/problems/max-area-of-island/description/)
+- [323. Number of Connected Components in an Undirected Graph(Med.)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)
+- [127. Word Ladder(Hard)](https://leetcode.com/problems/word-ladder/description/)
 
 ## Tree, BT, BST
-- [104. Maximum Depth of Binary Tree(Easy)](https://github.com/hayashi-ay/leetcode/pull/22)
-- [111. Minimum Depth of Binary Tree(Easy)](https://github.com/hayashi-ay/leetcode/pull/26)
-- [617. Merge Two Binary Trees(Easy)](https://github.com/hayashi-ay/leetcode/pull/12)
-- [108. Convert Sorted Array to Binary Search Tree(Easy)](https://github.com/hayashi-ay/leetcode/pull/29)
-- [112. Path Sum(Easy)](https://github.com/hayashi-ay/leetcode/pull/30)
-- [102. Binary Tree Level Order Traversal(Med.)](https://github.com/hayashi-ay/leetcode/pull/32)
-- [103. Binary Tree Zigzag Level Order Traversal(Med.)](https://github.com/hayashi-ay/leetcode/pull/35)
-- [98. Validate Binary Search Tree(Med.)](https://github.com/hayashi-ay/leetcode/pull/38)
-- [105. Construct Binary Tree from Preorder and Inorder Traversal(Med.)](https://github.com/hayashi-ay/leetcode/pull/43)
+- [104. Maximum Depth of Binary Tree(Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+- [111. Minimum Depth of Binary Tree(Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+- [617. Merge Two Binary Trees(Easy)](https://leetcode.com/problems/merge-two-binary-trees/description/)
+- [108. Convert Sorted Array to Binary Search Tree(Easy)](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+- [112. Path Sum(Easy)](https://leetcode.com/problems/path-sum/description/)
+- [102. Binary Tree Level Order Traversal(Med.)](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+- [103. Binary Tree Zigzag Level Order Traversal(Med.)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)
+- [98. Validate Binary Search Tree(Med.)](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal(Med.)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 
 ## Dynamic Programming
-- [276. Paint Fence(Med.)](https://github.com/hayashi-ay/leetcode/pull/17)
-- [300. Longest Increasing Subsequence(Med.)](https://github.com/hayashi-ay/leetcode/pull/27)
-- [53. Maximum Subarray(Med.)](https://github.com/hayashi-ay/leetcode/pull/36)
-- [62. Unique Paths(Med.)](https://github.com/hayashi-ay/leetcode/pull/39)
-- [63. Unique Paths II(Med.)](https://github.com/hayashi-ay/leetcode/pull/44)
-- [198. House Robber(Med.)](https://github.com/hayashi-ay/leetcode/pull/48)
-- [213. House Robber II(Med.)](https://github.com/hayashi-ay/leetcode/pull/50)
-- [121. Best Time to Buy and Sell Stock(Easy)](https://github.com/hayashi-ay/leetcode/pull/52)
-- [122. Best Time to Buy and Sell Stock II(Med.)](https://github.com/hayashi-ay/leetcode/pull/56)
-- [139. Word Break(Med.)](https://github.com/hayashi-ay/leetcode/pull/61)
-- [322. Coin Change(Med.)](https://github.com/hayashi-ay/leetcode/pull/68)
+- [276. Paint Fence(Med.)](https://leetcode.com/problems/paint-fence/description/)
+- [300. Longest Increasing Subsequence(Med.)](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+- [53. Maximum Subarray(Med.)](https://leetcode.com/problems/maximum-subarray/description/)
+- [62. Unique Paths(Med.)](https://leetcode.com/problems/unique-paths/description/)
+- [63. Unique Paths II(Med.)](https://leetcode.com/problems/unique-paths-ii/description/)
+- [198. House Robber(Med.)](https://leetcode.com/problems/house-robber/description/)
+- [213. House Robber II(Med.)](https://leetcode.com/problems/house-robber-ii/description/)
+- [121. Best Time to Buy and Sell Stock(Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- [122. Best Time to Buy and Sell Stock II(Med.)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+- [139. Word Break(Med.)](https://leetcode.com/problems/word-break/description/)
+- [322. Coin Change(Med.)](https://leetcode.com/problems/coin-change/description/)
 
 ## Binary Search
-- [35. Search Insert Position(Easy)](https://github.com/hayashi-ay/leetcode/pull/40)
-- [153. Find Minimum in Rotated Sorted Array(Med.)](https://github.com/hayashi-ay/leetcode/pull/45)
-- [33. Search in Rotated Sorted Array(Med.)](https://github.com/hayashi-ay/leetcode/pull/49)
-- [1011. Capacity To Ship Packages Within D Days(Med.)](https://github.com/hayashi-ay/leetcode/pull/55)
+- [35. Search Insert Position(Easy)](https://leetcode.com/problems/search-insert-position/description/)
+- [153. Find Minimum in Rotated Sorted Array(Med.)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [33. Search in Rotated Sorted Array(Med.)](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [1011. Capacity To Ship Packages Within D Days(Med.)](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 
 ## Recursion
-- [50. Pow(x, n)(Med.)](https://github.com/hayashi-ay/leetcode/pull/41)
-- [779. K-th Symbol in Grammar(Med.)](https://github.com/hayashi-ay/leetcode/pull/46)
-- [776. Split BST(Med.)](https://github.com/hayashi-ay/leetcode/pull/53)
+- [50. Pow(x, n)(Med.)](https://leetcode.com/problems/powx-n/description/)
+- [779. K-th Symbol in Grammar(Med.)](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)
+- [776. Split BST(Med.)](https://leetcode.com/problems/split-bst/description/)
 
 ## Sliding Window
-- [3. Longest Substring Without Repeating Characters(Med.)](https://github.com/hayashi-ay/leetcode/pull/47)
-- [209. Minimum Size Subarray Sum(Med.)](https://github.com/hayashi-ay/leetcode/pull/51)
+- [3. Longest Substring Without Repeating Characters(Med.)](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [209. Minimum Size Subarray Sum(Med.)](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 ## Greedy + Backtracking
-- [46. Permutations(Med.)](https://github.com/hayashi-ay/leetcode/pull/57)
-- [78. Subsets(Med.)](https://github.com/hayashi-ay/leetcode/pull/63)
-- [39. Combination Sum(Med.)](https://github.com/hayashi-ay/leetcode/pull/65)
-- [22. Generate Parentheses(Med.)](https://github.com/hayashi-ay/leetcode/pull/70)
+- [46. Permutations(Med.)](https://leetcode.com/problems/permutations/description/)
+- [78. Subsets(Med.)](https://leetcode.com/problems/subsets/description/)
+- [39. Combination Sum(Med.)](https://leetcode.com/problems/combination-sum/description/)
+- [22. Generate Parentheses(Med.)](https://leetcode.com/problems/generate-parentheses/description/)
 
 ## その他
-- [283. Move Zeroes(Easy)](https://github.com/hayashi-ay/leetcode/pull/58)
-- [252. Meeting Rooms(Easy)](https://github.com/hayashi-ay/leetcode/pull/59)
-- [253. Meeting Rooms II(Med.)](https://github.com/hayashi-ay/leetcode/pull/62)
-- [392. Is Subsequence(Med.)](https://github.com/hayashi-ay/leetcode/pull/64)
-- [31. Next Permutation(Med.)](https://github.com/hayashi-ay/leetcode/pull/67)
-- [8. String to Integer (atoi)(Med.)](https://github.com/hayashi-ay/leetcode/pull/69)
-- [6. Zigzag Conversion(Med.)](https://github.com/hayashi-ay/leetcode/pull/71)
+- [283. Move Zeroes(Easy)](https://leetcode.com/problems/move-zeroes/description/)
+- [252. Meeting Rooms(Easy)](https://leetcode.com/problems/meeting-rooms/description/)
+- [253. Meeting Rooms II(Med.)](https://leetcode.com/problems/meeting-rooms-ii/description/)
+- [392. Is Subsequence(Med.)](https://leetcode.com/problems/is-subsequence/description/)
+- [31. Next Permutation(Med.)](https://leetcode.com/problems/next-permutation/description/)
+- [8. String to Integer (atoi)(Med.)](https://leetcode.com/problems/string-to-integer-atoi/description/)
+- [6. Zigzag Conversion(Med.)](https://leetcode.com/problems/zigzag-conversion/description/)
